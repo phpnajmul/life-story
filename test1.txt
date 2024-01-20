@@ -4,3 +4,4 @@ I have complete my HSC in 2008
 I have completed my BSc in 2017
 I have completed my MSc in 2021
 I have started the full stack website developer at 2021
+I have added my new topic laravel nova at 2024
